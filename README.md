@@ -8,3 +8,12 @@
     - 设置不同难度的图片， 
     - 设置游戏初始关卡的矩阵的行数和列数。 conf/settings.py 文件中设置
     - 设置游戏自动移动的步数，             conf/settings.py 文件中设置
+    
+    
+    
+ ## 版权声明：
+```txt
+
+Copyright (c) 2020 ShiWei.Co.Ltd. All rights reserved.
+
+```
